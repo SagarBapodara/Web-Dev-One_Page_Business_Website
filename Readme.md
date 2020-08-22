@@ -5,13 +5,13 @@ This is only a template, there is NO backend associated with this template, you 
 
 ---
 
-Editor Used    :      Sublime Text 3
-Fonts Used     :      Poppins
-Navbar         :      Bootstrap Navbar 
-Progress bar   :      Bootstarp animated progress bar (https://www.w3schools.com/bootstrap4/bootstrap_progressbars.asp)
-Input Forms    :      Bootstrap Input Forms (https://www.w3schools.com/bootstrap/bootstrap_forms_inputs.asp)
-Technologies   :      HTML 5, CSS3, BOOTSTRAP 4 
-Use only if    :      Educational/Teaching/Demo, Commerical usage strictly not allowed
+- Editor Used    :      Sublime Text 3 
+- Fonts Used     :      Poppins 
+- Navbar         :      Bootstrap Navbar 
+- Progress bar   :      Bootstarp animated progress bar (https://www.w3schools.com/bootstrap4/bootstrap_progressbars.asp) 
+- Input Forms    :      Bootstrap Input Forms (https://www.w3schools.com/bootstrap/bootstrap_forms_inputs.asp) 
+- Technologies   :      HTML 5, CSS3, BOOTSTRAP 4 
+- Use only if    :      Educational/Teaching/Demo, Commerical usage strictly not allowed 
 
 ---
 
@@ -27,7 +27,7 @@ Use only if    :      Educational/Teaching/Demo, Commerical usage strictly not a
 ---
 
 
-###Sections of the Website 
+### Sections of the Website
 
 The following are the sections on this website template:
 
@@ -65,10 +65,10 @@ Bootstrap progress bar is used, which is completely responsive for any devices. 
 
 This section shows the number of :
 
-1.Active Clients<br>
-2.Social Fans<br>
-3.Keywords <br>
-4.Campaigns <br>
+- Active Clients 
+- Social Fans 
+- Keywords 
+- Campaigns  
 
 
 This section is basically used to show the number of service attributes for any company/organisation.
@@ -127,19 +127,19 @@ Basically, takes you to the top of the page.
 
 ##Links to resources used : 
 
-1.https://www.w3schools.com/bootstrap4/ [BOOTSTRAP]
-2.https://getbootstrap.com/docs/4.0/components/navbar/ [BOOTSTRAP]
-3.https://fonts.google.com/specimen/Poppins [FONTS]
-4.https://cdnjs.com/libraries/font-awesome/4.7.0 [ICONS]
-5.https://fontawesome.com/ [ICONS]
-6.https://bit.ly/3h9Tpzs [For Images]
+- https://www.w3schools.com/bootstrap4/ [BOOTSTRAP]
+- https://getbootstrap.com/docs/4.0/components/navbar/ [BOOTSTRAP]
+- https://fonts.google.com/specimen/Poppins [FONTS]
+- https://cdnjs.com/libraries/font-awesome/4.7.0 [ICONS]
+- https://fontawesome.com/ [ICONS]
+- https://bit.ly/3h9Tpzs [For Images]
 
 
 ---
 
 ### Use of this Template
 
-Please not that, this website template is NOT to be used for COMMERCIAL/RENTING/SELLING purposing with/without modification, the template is made only for educational, teaching & practice purpose. 
+Please note that, this website template is NOT to be used for COMMERCIAL/RENTING/SELLING purposing with/without modification, the template is made only for educational, teaching & practice purpose. 
 
 DO Not Use it for COMMERCIAL/RENTING/SELLING/ANY SORT OF MONETARY BENEFIT.
 
@@ -159,7 +159,7 @@ Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" fo
 
 ---
 
-[Navbar Bootstrap] : https://getbootstrap.com/docs/4.0/components/navbar/
-[Font Awesome Icons] : https://cdnjs.com/libraries/font-awesome/4.7.0
-[Bootstrap Progress Bar] : https://www.w3schools.com/bootstrap4/bootstrap_progressbars.asp
-[Bootstrap Carousel] : https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp
+- [Navbar Bootstrap] : https://getbootstrap.com/docs/4.0/components/navbar/
+- [Font Awesome Icons] : https://cdnjs.com/libraries/font-awesome/4.7.0
+- [Bootstrap Progress Bar] : https://www.w3schools.com/bootstrap4/bootstrap_progressbars.asp
+- [Bootstrap Carousel] : https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp
