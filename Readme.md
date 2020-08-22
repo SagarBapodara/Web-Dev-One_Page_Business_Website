@@ -65,10 +65,10 @@ Bootstrap progress bar is used, which is completely responsive for any devices. 
 
 This section shows the number of :
 
-1.Active Clients
-2.Social Fans
-3.Keywords
-4.Campaigns
+1.Active Clients<br>
+2.Social Fans<br>
+3.Keywords <br>
+4.Campaigns <br>
 
 
 This section is basically used to show the number of service attributes for any company/organisation.
