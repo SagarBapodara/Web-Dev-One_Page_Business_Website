@@ -23,7 +23,7 @@ This is only a template, there is NO backend associated with this template, you 
 - Bootstrap 4
 - JavaScript
 
-Link to the Template: https://sagarbapodara.github.io/One-Page-Business-Website/
+Link to the Template (Live): [Here](https://sagarbapodara.github.io/Web-Dev-One_Page_Business_Website/)
 
 ---
 
